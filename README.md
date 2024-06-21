@@ -6,7 +6,7 @@ All data was collected manually on five chickens of varied breeds. Fig 1. displa
 
 _Figure 1. Sample data from recordings of free chickens (left) and confined chickens (right)_
 
-Two classification models were tested: a K-nearest neighbors and a neural network. The results for the neural network are shown in Fig. 2 below. 
+Two classification models were tested: a K-nearest neighbors and a neural network. These models were trained on the frequencies present in waveforms of chicken vocalizations. The results for the neural network are shown in Fig. 2 below. 
 
 <img src="images/image2.png" alt="alt_text" title="image_tooltip" width="500" />
 
